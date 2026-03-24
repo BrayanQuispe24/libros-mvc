@@ -20,6 +20,8 @@
                 <a href="<?= BASE_URL ?>/">Inicio</a>
                 <a href="<?= BASE_URL ?>/books">Libros</a>
                 <a href="<?= BASE_URL ?>/books/create">Nuevo libro</a>
+                <a href="<?= BASE_URL ?>/users">Users</a>
+                <a href="<?= BASE_URL ?>/users/create">Registrar usuario</a>
             </div>
         </div>
     </nav>
